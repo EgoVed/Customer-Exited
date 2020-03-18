@@ -11,7 +11,8 @@
 
 ### Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
 
-https://webimpulse.net/wp-content/uploads/2018/05/predotvrashenie-poter.jpg
+![alt text](https://webimpulse.net/wp-content/uploads/2018/05/predotvrashenie-poter.jpg
+)
 
 ### Инструкция по выполнению проекта
 
